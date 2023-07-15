@@ -1,0 +1,59 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#input {
+    background-color: rgb(255, 218, 232);
+    width: 30%;
+    margin: 10px;
+    line-height: 2;
+    border-radius: 5px;
+    border-color: black;
+    border-width: 1px;
+    box-shadow: 5px 5px 5px pink;
+}
+
+canvas {
+    box-shadow: 5px 5px 5px pink;
+    border-radius: 15px;
+    border-width: 5px;
+    margin: 5px;
+}
+
+.heading {
+    background-color: pink;
+    font-size: 25px;
+    width: 50%;
+}
+
+#note {
+    font-size: 15px;
+}
+
+#model_status {
+    background-color: rgb(94, 142, 94);
+    font-size: 18px;
+    color:rgb(255, 255, 255)
+}
+
+#object_status {
+    background-color: rgb(139, 200, 139);
+    font-size: 18px;
+}
+
+#start {
+    background-color: rgb(127, 178, 127);
+    font-size: 18px;
+    width: 5%;
+    color: rgb(255, 229, 233);
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: pink;
+    line-height: 3;
+    text-align: center;
+}
